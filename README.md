@@ -91,6 +91,10 @@ For state-of-the-art updates join our [Discord server](https://discord.com/invit
     - instant flattening from VC segments without meshing (10s for one slice) [thread](https://discord.com/channels/1079907749569237093/1289946915269509251)
     - segment surface refinement [thread](https://discord.com/channels/1079907749569237093/1290364437836075231)
 
+- [vesuvius_fibers](https://github.com/bruniss/vesuvius-fibers) by Sean Johnson:
+    - a 3d unet based semantic segmentation model for scroll fibers
+    - some preliminary methods for creating meshes or surfaces from these predictions
+
 ### 📦 Materials
 
 #### 🌟 Highlighted
